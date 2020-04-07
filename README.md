@@ -11,3 +11,6 @@ Beautiful Soup 익히기
 [test03.py]
 
 네이버 영화 평점 기준 영화의 평점 변화 확인하기
+
+## Images
+<img src="/images/capture1.PNG" width="450px" height="300px" title="capture" alt="capture1"></img>
